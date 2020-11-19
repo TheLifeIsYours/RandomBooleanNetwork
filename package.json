@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node ./out/index"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0"
+  }
+}
